@@ -1,3 +1,7 @@
+# Explanation
+
+A small scraping automation tool which automatically downloads the profile pictures from a database of Facebook, LinkedIn and Twitter profiles.
+
 # Running the application
 
 1. Open *Database.xslx* and put fill the database, following the steps
